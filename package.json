@@ -24,6 +24,6 @@
     "gulp-sass": "^4.0.2",
     "gulp-scss-combine": "^1.0.0",
     "gulp-sourcemaps": "^2.6.5",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
